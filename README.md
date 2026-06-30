@@ -10,6 +10,8 @@ Least-privilege tools · policy validation · append-only audit trail.
 [![FastMCP](https://img.shields.io/badge/SDK-FastMCP-111827)](https://github.com/modelcontextprotocol/python-sdk)
 [![License](https://img.shields.io/badge/License-MIT-6b7280)](LICENSE)
 
+**English · [Italiano](README.it.md)**
+
 </div>
 
 ---
