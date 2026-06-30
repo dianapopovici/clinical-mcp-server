@@ -1,0 +1,48 @@
+# ============================================================
+#  SECURITY FIRST — nothing private or generated reaches GitHub
+# ============================================================
+
+# --- Secrets & local configuration (NEVER commit) ---
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+secrets/
+credentials.json
+
+# --- Synthetic clinical data (regenerable, kept out of git) ---
+data/synthetic/
+*.sqlite
+*.db
+
+# --- Audit logs (runtime output) ---
+*.audit.log
+audit.log
+logs/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+env/
+.python-version
+
+# --- Tooling caches ---
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# --- OS / editor noise ---
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
