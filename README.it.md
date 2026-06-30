@@ -12,6 +12,10 @@ Strumenti a privilegio minimo · validazione tramite policy · audit trail appen
 
 **[English](README.md) · Italiano**
 
+<br>
+
+![Demo dal vivo — un agente AI (Claude Desktop) chiama gli strumenti governati, ottiene un riepilogo paziente a privilegio minimo e viene bloccato quando richiede un nome reale](assets/demo.gif)
+
 </div>
 
 ---

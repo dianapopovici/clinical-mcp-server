@@ -12,6 +12,10 @@ Least-privilege tools · policy validation · append-only audit trail.
 
 **English · [Italiano](README.it.md)**
 
+<br>
+
+![Live demo — an AI agent (Claude Desktop) calls the governed tools, gets a least-privilege patient summary, and is blocked when it requests a real patient name](assets/demo.gif)
+
 </div>
 
 ---
